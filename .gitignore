@@ -1,0 +1,13 @@
+/BanCn.Comment/
+/BanCn.Notification/
+/BanCn.VPG_QLKH_Approval/
+/BanCn.WorkflowMonitor/
+/ElsaServer/
+/VPG_QLKH_OKRs/
+/VPG_QLKH_Organization/
+/vpg-qlkh-fe/
+
+# agent config (local only, copied to worktrees via .worktreeinclude)
+/CLAUDE.md
+/CLAUDE.local.md
+/.claude/
